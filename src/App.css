@@ -5,6 +5,7 @@ body {
 .box {
   background-color: white;
   border: 5px dotted black;
+  border-radius: 30px;
   width: 400px;
   height: 550px;
   justify-items: center;
