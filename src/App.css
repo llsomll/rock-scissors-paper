@@ -1,0 +1,39 @@
+body {
+  background-color: ivory;
+}
+
+.box {
+  background-color: white;
+  border: 5px dotted black;
+  width: 400px;
+  height: 550px;
+  justify-items: center;
+  margin: 50px;
+}
+
+.item-img {
+  width: 340px;
+  height: 350px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  margin: 10px;
+  
+}
+
+.Win {
+  border: 5px solid lightblue; 
+}
+
+.Lose {
+  border: 5px solid pink;
+}
+
+.Tie {
+  border: 5px solid grey;
+}
